@@ -1,0 +1,2 @@
+model_checkpoint_path: "HumanoidStandup-v1.cptk"
+all_model_checkpoint_paths: "HumanoidStandup-v1.cptk"

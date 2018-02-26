@@ -1,0 +1,2 @@
+model_checkpoint_path: "Hopper-v1.cptk"
+all_model_checkpoint_paths: "Hopper-v1.cptk"

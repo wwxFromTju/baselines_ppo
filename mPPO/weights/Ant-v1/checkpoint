@@ -1,0 +1,2 @@
+model_checkpoint_path: "Ant-v1.cptk"
+all_model_checkpoint_paths: "Ant-v1.cptk"

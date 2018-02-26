@@ -1,0 +1,2 @@
+model_checkpoint_path: "Swimmer-v1.cptk"
+all_model_checkpoint_paths: "Swimmer-v1.cptk"
